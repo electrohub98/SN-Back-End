@@ -1,2 +1,3 @@
 # S-N-Back-End
-for scholar nertwork boot camp
+for scholar nertwork 
+learning of back end to be a developer
